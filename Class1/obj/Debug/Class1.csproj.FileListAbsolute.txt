@@ -1,0 +1,7 @@
+C:\Users\Anis\source\repos\Class1\Class1\bin\Debug\Class1.exe.config
+C:\Users\Anis\source\repos\Class1\Class1\bin\Debug\Class1.exe
+C:\Users\Anis\source\repos\Class1\Class1\bin\Debug\Class1.pdb
+C:\Users\Anis\source\repos\Class1\Class1\obj\Debug\Class1.csprojResolveAssemblyReference.cache
+C:\Users\Anis\source\repos\Class1\Class1\obj\Debug\Class1.csproj.CoreCompileInputs.cache
+C:\Users\Anis\source\repos\Class1\Class1\obj\Debug\Class1.exe
+C:\Users\Anis\source\repos\Class1\Class1\obj\Debug\Class1.pdb
