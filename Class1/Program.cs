@@ -21,14 +21,14 @@ namespace Class1
             void connect(String path)
             {
                 ProcessStartInfo s = new ProcessStartInfo();
-                //s.FileName = @"C:\Program Files\Java\jre1.8.0_191\bin\java.exe";
-                s.FileName = @"JoeClassifier.java";
+                s.FileName = @"C:\Program Files\Java\jdk1.8.0_131\bin\java.exe";
+                //s.FileName = @"C:\Temp\JoeClassifierjava.java";
                 s.WorkingDirectory = @"C:\Temp";
 
 
-                s.Arguments = @"JoeClassifier " + path; // C:\Temp\ForestImage.png";
+                s.Arguments = @"JoeClassifierJava " + path; // C:\Temp\ForestImage.png";
 
-                s.UseShellExecute = false;
+                s.UseShellExecute = false;   // value false causes the WorkingDirectory to be applied to fileName which is executed
 
                 s.RedirectStandardOutput = true;
 
